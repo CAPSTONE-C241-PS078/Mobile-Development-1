@@ -1,6 +1,6 @@
 # CatarActNow
 
-This is the first batch application being developed (not yet complete). The application is still under development and currently, only a few features are completed, which are:
+This is the initial batch application under development, currently incomplete. The application is in active development, and currently, the following features have been implemented:
 
 - Login
 - Register
