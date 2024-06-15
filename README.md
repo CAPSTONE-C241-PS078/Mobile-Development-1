@@ -1,19 +1,18 @@
 # CatarActNow
 
-Ini adalah aplikasi batch pertama yang dibikin (belum jadi). Aplikasi ini masih dalam tahap pengembangan dan saat ini hanya beberapa fitur yang sudah selesai, yaitu:
+This is the first batch application being developed (not yet complete). The application is still under development and currently, only a few features are completed, which are:
 
 - Login
 - Register
-- Integrasi API berita dari cloud computing
+- News API integration from cloud computing
 
-## Fitur
+## Features
 
 ### Login
-Fitur ini memungkinkan pengguna untuk masuk ke aplikasi menggunakan kredensial mereka.
+This feature allows users to log in to the application using their credentials.
 
 ### Register
-Fitur ini memungkinkan pengguna baru untuk mendaftar dan membuat akun.
+This feature allows new users to register and create an account.
 
-### Integrasi API Berita
-Aplikasi ini terintegrasi dengan API berita dari cloud computing untuk menampilkan berita terbaru kepada pengguna.
-
+### News API Integration
+The application integrates with a news API from cloud computing to display the latest news to users.
